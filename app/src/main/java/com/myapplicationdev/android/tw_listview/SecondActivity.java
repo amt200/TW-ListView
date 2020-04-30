@@ -23,7 +23,7 @@ public class SecondActivity extends AppCompatActivity {
         Intent i = getIntent();
         String year = i.getStringExtra("year");
         tvYear.setText(year);
-        //AMAZING!!
+        //AMAZING!
 
 
 
