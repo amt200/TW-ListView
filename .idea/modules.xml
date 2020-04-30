@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-TW-ListView.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-TW-ListView.iml" group="TW-ListView" />
       <module fileurl="file://$PROJECT_DIR$/TW-ListView.iml" filepath="$PROJECT_DIR$/TW-ListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/TW-ListView-app.iml" filepath="$PROJECT_DIR$/app/TW-ListView-app.iml" group="TW-ListView/app" />
+      <module fileurl="file://$PROJECT_DIR$/TW-ListViewDemo.iml" filepath="$PROJECT_DIR$/TW-ListViewDemo.iml" group="TW-ListViewDemo" />
+      <module fileurl="file://$PROJECT_DIR$/app/TW-ListViewDemo-app.iml" filepath="$PROJECT_DIR$/app/TW-ListViewDemo-app.iml" group="TW-ListViewDemo/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
